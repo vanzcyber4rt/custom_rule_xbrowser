@@ -131,3 +131,7 @@ oploverz.gold##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 99
 oploverz.gold##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 12px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
 oploverz.gold##DIV.ads_area.ads_info
 oploverz.gold##IMG[loading='lazy'][src='https://oploverz.gold/wp-content/uploads/2024/01/Merdeka189-Slot-Gacor-5-Maret.gif'][alt='Merdekaslot'][width='300'][height='250'][border='0']
+oploverz.gold##IMG[loading='lazy'][src='https://oploverz.gold/wp-content/uploads/2024/01/Hobi188-New.gif'][alt='hobi188'][width='546'][height='68'][border='0']
+oploverz.gold##IMG[loading='lazy'][src='https://oploverz.gold/wp-content/uploads/2023/03/Ice3bet-20-Juni.gif'][alt='Ice3bet Slot Online'][width='546'][height='68'][border='0']
+oploverz.gold##IMG[loading='lazy'][src='https://oploverz.gold/wp-content/uploads/2024/01/NEY4D-10-Ap-New.gif'][alt='Ney4d'][width='546'][height='68'][border='0']
+oploverz.gold##IMG[alt='close'][src='https://3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/btn_close.gif']
