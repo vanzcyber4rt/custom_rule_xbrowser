@@ -3,6 +3,7 @@
 ! Title: custom_rule_oploverz
 ! Description: Filter khusus website oploverz
 ! Filter by: Angga Prahmana
+!
 ! Daftar filter
 oploverz.gold##A[href='https://tinyurl.com/587a5xwj'][rel='noopener'][target='_blank']
 oploverz.gold##ASIDE#sidebar[role='complementary']
