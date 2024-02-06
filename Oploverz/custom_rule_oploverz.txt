@@ -1,3 +1,9 @@
+[Oploverz Ads Blocker]
+! Version: 1.0
+! Title: custom_rule_oploverz
+! Description: Filter khusus website oploverz
+! Filter by: Angga Prahmana
+! Daftar filter
 oploverz.gold##A[href='https://tinyurl.com/587a5xwj'][rel='noopener'][target='_blank']
 oploverz.gold##ASIDE#sidebar[role='complementary']
 oploverz.gold##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 184px;']
