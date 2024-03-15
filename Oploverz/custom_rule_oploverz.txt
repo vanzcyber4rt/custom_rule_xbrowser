@@ -149,3 +149,47 @@ neonime.ink##IMG.initial.loaded[data-src='https://neonime.ink/wp-content/themes/
 neonime.ink##IMG.initial.loaded[data-src='https://neonime.ink/wp-content/themes/grifus/images/donate/yunita/skdkdgaza88.gif'][style='height: 60px;'][alt='GAZA88'][rel='nofollow'][src='https://neonime.ink/wp-content/themes/grifus/images/donate/yunita/skdkdgaza88.gif'][data-was-processed='true']
 neonime.ink##SPAN#counter_tampilan_tambahan
 neonime.ink##A[href='#']
+oploverz.blog##DIV.elementor-element.elementor-element-0454213.e-flex.e-con-boxed.e-con.e-parent[data-id='0454213'][data-element_type='container'][data-core-v316-plus='true']
+oploverz.blog##DIV.elementor-element.elementor-element-8d1aab8.e-con-full.e-flex.e-con.e-child[data-id='8d1aab8'][data-element_type='container']
+otakudesu.cloud##DIV.iklan
+otakudesu.cloud##IFRAME[src^='https://anime.berangkasilmu.com/'][style='width:95%;height:75px;border: none;'][allowfullscreen='true']
+otakudesu.cloud##DIV#iklanbawah[style='width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;']
+otakudesu.cloud##DIV.box_item_ads_popup
+zlink.fun/otk188
+desustream.me/banner/Otakudesu-baru.gif
+oploverz.blog##IMG[loading='lazy'][src='https://oploverz.gold/wp-content/uploads/2024/02/Hobi188-New-Februari.gif'][alt='hobi188'][width='546'][height='68'][border='0']
+film21.fun##DIV#chaty-widget-0.chaty.chaty-id-0.chaty-widget-0.chaty-key-0.all_time.active[style='display: none'][data-key='0'][data-id='0'][data-identifier='0'][data-nonce='4f0259db4f'][data-animation='waggle']
+film21.fun##path[d='M3.56917 -2.55497e-07L0 6.42978L7.5349 1.87535L3.56917 -2.55497e-07Z'][transform='translate(13.9704 24.6145)'][fill='#E0E0E0']
+film21.fun##svg[width='39'][height='39'][viewBox='0 0 39 39'][fill='none'][xmlns='http://www.w3.org/2000/svg']
+film21.fun##circle.color-element[cx='19.4395'][cy='19.4395'][r='19.4395'][fill='#3E99D8']
+film21.fun##path[d='M20.8862 0.133954C20.754 0 20.4897 0 20.2253 0L0.396574 8.03723C0.132191 8.17118 0 8.43909 0 8.707C0 8.97491 0.132191 9.24282 0.396574 9.37677L17.5814 17.414C17.7136 17.414 17.7136 17.414 17.8458 17.414C17.978 17.414 18.1102 17.414 18.1102 17.28C18.2424 17.1461 18.3746 17.0121 18.5068 16.7442L21.1506 0.669769C21.1506 0.535815 21.1506 0.267908 20.8862 0.133954Z'][transform='translate(7.36069 10.9512)'][fill='white']
+film21.fun##path[d='M13.8801 0L0 11.52V19.4233L3.70136 13.2614L13.8801 0Z'][transform='translate(13.9704 11.6208)'][fill='#F2F2F2']
+91.201.113.77##IMG[alt='telegram'][style='position: fixed;bottom: 125px;right: 10;z-index:9999'][src='https://assets-global.website-files.com/658054a2f7175d3fabbf7636/658054e9003b470c26c87f3d_telegram.webp']
+91.201.113.77##A[href='https://t.me/tele01nonton'][target='_blank"']
+91.201.113.77##IMG.alignnone[alt='77play'][width='50%'][style='float:left;margin:auto;height:auto;'][src='/wp-content/uploads/banner/77play-Molly-640x67.gif'][height='60']
+91.201.113.77##IMG.alignnone[alt='77play'][laoding='lazy'][width='50%'][style='float:left;margin:auto;height:auto;'][src='/wp-content/uploads/banner/77play-Molly-640x67.gif'][height='60']
+streamwish.to##IFRAME[scrolling='no'][style='width: 100% !important; height: 114px !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: static !important; color-scheme: none; inset: 0px; overflow: hidden; z-index: 1 !important; display: block; user-select: none !important;']
+158.220.94.103##DIV.gmr-notification.player-notification.global-notification
+www.halodoc.com##DIV.article-page__social-buttons--mobile[_ngcontent-halodoc-c561909822]
+www.halodoc.com##HD-BASE-CHAT-DOCTOR-CARD.article-page__chat-doctor-card.sticky.bottom-10.flex[_ngcontent-halodoc-c561909822][_nghost-halodoc-c3465701937]
+poop.kim##DIV.n9VUXQmB98rW0ML_Bznz.KLjfIrumJezyRezUEFtz[data-element='empty'][data-izone='uc-area']
+poop.kim##DIV._4KjPzfFqnPyBgIgiXkX.frvBxo3OzNO6g_x_mz5H.oAWJ1Ltlnofke8Akcyko.uYZBnLDnIyswhKWzZLSW._rGGQOLsfdi_VLt1WJu6.amMb78RPPU8tNuFfBZUD[style='bottom: 10px;']
+poop.kim##DIV._XB7UGbHmwA69YNkGA_i[data-element='static-title']
+poop.kim##DIV._4KjPzfFqnPyBgIgiXkX.geFpwXJsI2omqWI9ooIg.YT4KyBxROV_k96PW_DLJ.VjIk2TJT4stQgyeHQSMo.sXMjiAYIyLfUvykrs3RT.amMb78RPPU8tNuFfBZUD[style='top: 10px;']
+poop.kim##DIV.Qtuy77MHyaY_f4VcEst_
+poop.kim##DIV.MaGVkb7h5G9eFvusZh_a._PgsYe7nRAdrFIzo_KF_
+poop.kim##DIV.AKlUUqvh1MGpxAOAQMnS
+poop.kim##DIV.p7FqHAXMzhhC5EXTI9Cu[data-element='body']
+poop.kim##DIV.HBZrltYPbeA9LwgnphSt[data-element='empty'][data-izone='main']
+poop.kim##DIV._57Fa0n2daaM7pvjIi0Q.false[data-element='title']
+poop.kim##DIV._4KjPzfFqnPyBgIgiXkX.skjdqirBD7_WSGmgBaTD.YT4KyBxROV_k96PW_DLJ.VjIk2TJT4stQgyeHQSMo.PVlu5dykxThc_sps_kiG.amMb78RPPU8tNuFfBZUD[style='top: 10px;']
+poop.kim##DIV._4KjPzfFqnPyBgIgiXkX.o3NcdUVFBYf7kKO0BS9Q.oAWJ1Ltlnofke8Akcyko.uYZBnLDnIyswhKWzZLSW._rGGQOLsfdi_VLt1WJu6.amMb78RPPU8tNuFfBZUD[style='bottom: 10px;']
+62.171.144.229##IFRAME[style='width: 100% !important; height: 172px !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: 0px 0px auto auto !important; overflow: hidden; z-index: 2147483647; display: block !important; min-width: 240px !important;']
+5.253.86.213##DIV#vgkblbeevvxoucrrmjlodloqmnnglntvocfgswlchduqjjsekpzzakvca.vgkblbeevvxoucrrmjlodloqmnnglntvocfgswlchduqjjsekpzzakvca.uefvnjvdnnqcxdozuvwalbsadhsbyrnusdfbiemmkgznmhceziazakvca
+5.253.86.213##DIV#vsubgogsxvfpyuwdangxmwlpmoxexdvroevjrqwvzseqwtakvca.vsubgogsxvfpyuwdangxmwlpmoxexdvroevjrqwvzseqwtakvca.uevzqrjaemzkuqmhejzxtbnmlddhlnpieerzngnuekrlkorexjenmtikgstzwewlbfivaakvcaakvca
+5.253.86.213##DIV#ruzrdezhchqvwtvtbdeujplydwzkwlqthzedflsspmngycfdmazkvyee.ruzrdezhchqvwtvtbdeujplydwzkwlqthzedflsspmngycfdmazkvyee.dlfxcdclrwdhntmlnxsndgmeiykhyynkchdahbtcvrtavuzcehqzzkvyee
+5.253.86.213##DIV#nnljtwpwwmckllazhabwxdnfwmczewahjtuwfrvgdrchdvjvpoduupny.nnljtwpwwmckllazhabwxdnfwmczewahjtuwfrvgdrchdvjvpoduupny.sehqnkjmdhvpzdzkduzwvjywmgxrnivvttzfjqujuthtajfcehpottuupny
+5.253.86.213##DIV#dungunlsendumpxskwxyxziarjnzzottqmrmhykirvibgltazuupny.dungunlsendumpxskwxyxziarjnzzottqmrmhykirvibgltazuupny.ylzjrezwlkyszzkatyrwzzllrwksmtdkzifrvfvglxwhffulruzhoamsypldtblqjdxmtkaequupnyuupny
+5.253.86.213##DIV#tyxtzkaxqxhyrunkuloscuonwtkujazdjjrwkkrsukykjmdkvyee.tyxtzkaxqxhyrunkuloscuonwtkujazdjjrwkkrsukykjmdkvyee.zgteselulrqpmqttndvkdvslvtkmzllwexqrxrosfrzdnizoxflkhxsjzwqzbtnslayqnzqrakvyeekvyee
+mangaplus.shueisha.co.jp##IMG.index-module_oneImage_2pH_3[src^='https://mangaplus.shueisha.co.jp/drm/popup/315694.jpg']
+m.youtube.com##DIV.video-ads.ytp-ad-module[data-layer='4']
