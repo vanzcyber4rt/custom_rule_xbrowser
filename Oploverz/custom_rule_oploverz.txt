@@ -193,3 +193,29 @@ poop.kim##DIV._4KjPzfFqnPyBgIgiXkX.o3NcdUVFBYf7kKO0BS9Q.oAWJ1Ltlnofke8Akcyko.uYZ
 5.253.86.213##DIV#tyxtzkaxqxhyrunkuloscuonwtkujazdjjrwkkrsukykjmdkvyee.tyxtzkaxqxhyrunkuloscuonwtkujazdjjrwkkrsukykjmdkvyee.zgteselulrqpmqttndvkdvslvtkmzllwexqrxrosfrzdnizoxflkhxsjzwqzbtnslayqnzqrakvyeekvyee
 mangaplus.shueisha.co.jp##IMG.index-module_oneImage_2pH_3[src^='https://mangaplus.shueisha.co.jp/drm/popup/315694.jpg']
 m.youtube.com##DIV.video-ads.ytp-ad-module[data-layer='4']
+doroni.me##INS
+doroni.me##DIV.Popup__button.btn.btn-danger[type='button'][data-toggle='hide']
+doroni.me##IMG.Content__banner-image[src='https://doroni.me/images/vast/donasi.png'][style='max-width:95vw;']
+anoboy.baby##DIV.sidebar[style=' margin: auto;background-image: url(#);
+    background-repeat: no-repeat;   background-position: top;']
+anoboy.baby##IMG.i-amphtml-fill-content.i-amphtml-replaced-content[decoding='async'][alt='hoki'][src='/img/khm2.jpg']
+anoboy.baby##IMG.i-amphtml-fill-content.i-amphtml-replaced-content[decoding='async'][alt='macau'][src='/img/mcdm7.jpg']
+anoboy.baby##IMG.i-amphtml-fill-content.i-amphtml-replaced-content[decoding='async'][alt='discord'][src='/img/discord.png']
+anoboy.baby##DIV#ad_bawah
+kazefuri.ink##DIV.blox.mlb.kln
+kazesub.com##A[href='https://heylink.cam/indo666']
+kazesub.com##DIV.blox.mlb.kln
+kazesub.com##IFRAME[style='width: 100% !important; height: 286px !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: 0px 0px auto auto !important; overflow: hidden; z-index: 2147483647; display: block !important; min-width: 240px !important;']
+kazefuri.ink##DIV.kln
+77.238.245.181##IMG.alignnone[alt='77play'][laoding='lazy'][width='50%'][style='float:left;margin:auto;height:auto;'][src='https://01nonton.pages.dev/ads77play.gif'][height='60']
+77.238.245.181##IMG.alignnone[alt='77play'][width='50%'][style='float:left;margin:auto;height:auto;'][src='https://01nonton.pages.dev/ads77play.gif'][height='60']
+77.238.245.181##IMG.alignnone[alt='mabosway'][width='50%'][style='float:left;margin:auto;height:auto;'][src='/wp-content/uploads/banner/mabosway.webp'][height='60']
+77.238.245.181##IMG.alignnone[alt='indo666'][width='50%'][style='float:left;margin:auto;height:auto;'][src='/wp-content/uploads/banner/indo666.gif'][height='60']
+77.238.245.181##DIV.sidebar.right.scrolling
+77.238.245.181##A[href='https://t.me/tele01nonton'][target='_blank"']
+oploverz.host##DIV.blox.mlb.kln
+oploverz.host##DIV.kln
+oploverz.host##DIV.chain[align='center']
+oploverz.host##A[href='https://heylink.me/padangtoto/'][target='_blank'][rel='noopener']
+oploverz.host##IMG[src='https://oploverz.host/wp-content/uploads/2024/04/sidebar-4-jULI.gif'][alt='BO177'][width='260'][height='210'][border='0']
+oploverz.host##DIV#overplay
