@@ -219,3 +219,5 @@ oploverz.media##DIV.chain[align='center']
 oploverz.media##A[href='https://heylink.me/padangtoto/'][target='_blank'][rel='noopener']
 oploverz.media##IMG[src='https://oploverz.media/wp-content/uploads/2024/04/sidebar-4-jULI.gif'][alt='BO177'][width='260'][height='210'][border='0']
 oploverz.media##DIV#overplay
+oploverz.media##IMG[src='https://3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/btn_close.gif']
+
