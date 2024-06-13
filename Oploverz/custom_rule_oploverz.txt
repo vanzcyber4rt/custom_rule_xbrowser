@@ -221,4 +221,5 @@ oploverz.media##IMG[src='https://oploverz.media/wp-content/uploads/2024/04/sideb
 oploverz.media##DIV#overplay
 oploverz.media##IMG[src='https://3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/btn_close.gif']
 tv13.nontondrama.click##DIV#top-b.row
+tv13.nontondrama.click##DIV#admad
 
