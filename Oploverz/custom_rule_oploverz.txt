@@ -1,5 +1,5 @@
 [Oploverz Ads Blocker]
-! Version: 1.0
+! Version: 1.1
 ! Title: custom_rule_oploverz
 ! Description: Filter khusus website oploverz
 ! Filter by: Angga Prahmana
