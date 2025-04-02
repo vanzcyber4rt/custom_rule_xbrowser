@@ -1,0 +1,362 @@
+[Oploverz Ads Blocker]
+! Version: 1.0
+! Title: custom_rule_oploverz
+! Description: Filter khusus website oploverz
+! Filter by: Angga Prahmana
+!
+! Daftar filter
+anime.oploverz.ac##A[href='https://tinyurl.com/587a5xwj'][rel='noopener'][target='_blank']
+anime.oploverz.ac##ASIDE#sidebar[role='complementary']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 184px;']
+anime.oploverz.ac##DIV.sgpb-theme-6-overlay.sgpb-popup-overlay-19287.sgpb-popup-overlay[style='z-index: 9999; background-color: black; opacity: 0.6; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%;']
+anime.oploverz.ac##DIV#sg-popup-content-wrapper-19287.sg-popup-builder-content[data-id='19287'][data-events='[{"param":"load","value":"","hiddenOption":[]}]'][data-options='eyJzZ3BiLXR5cGUiOiJodG1sIiwic2dwYi1pcy1wcmV2aWV3IjoiMCIsInNncGItaXMtYWN0aXZlIjoib24iLCJzZ3BiLWJlaGF2aW9yLWFmdGVyLXNwZWNpYWwtZXZlbnRzIjpbW3sicGFyYW0iOiJzZWxlY3RfZXZlbnQifV1dLCJzZ3BiLWNvbnRlbnQtcGFkZGluZyI6IjEyIiwic2dwYi1wb3B1cC16LWluZGV4IjoiOTk5OSIsInNncGItcG9wdXAtdGhlbWVzIjoic2dwYi10aGVtZS02Iiwic2dwYi1vdmVybGF5LWNvbG9yIjoiIiwic2dwYi1vdmVybGF5LW9wYWNpdHkiOiIwLjYiLCJzZ3BiLWNvbnRlbnQtY3VzdG9tLWNsYXNzIjoic2ctcG9wdXAtY29udGVudCIsInNncGItYmFja2dyb3VuZC1pbWFnZS1tb2RlIjoibm8tcmVwZWF0Iiwic2dwYi1lbmFibGUtY2xvc2UtYnV0dG9uIjoib24iLCJzZ3BiLWNsb3NlLWJ1dHRvbi1kZWxheSI6IjAiLCJzZ3BiLWNsb3NlLWJ1dHRvbi1wb3NpdGlvbiI6InRvcFJpZ2h0Iiwic2dwYi1idXR0b24tcG9zaXRpb24tdG9wIjoiLTE4Iiwic2dwYi1idXR0b24tcG9zaXRpb24tcmlnaHQiOiItMTgiLCJzZ3BiLWJ1dHRvbi1wb3NpdGlvbi1ib3R0b20iOiIwIiwic2dwYi1idXR0b24tcG9zaXRpb24tbGVmdCI6IiIsInNncGItYnV0dG9uLWltYWdlIjoiIiwic2dwYi1idXR0b24taW1hZ2Utd2lkdGgiOiIzMCIsInNncGItYnV0dG9uLWltYWdlLWhlaWdodCI6IjMwIiwic2dwYi1ib3JkZXItY29sb3IiOiIjMDAwMDAwIiwic2dwYi1ib3JkZXItcmFkaXVzIjoiMCIsInNncGItYm9yZGVyLXJhZGl1cy10eXBlIjoiJSIsInNncGItYnV0dG9uLXRleHQiOiJDbG9zZSIsInNncGItb3ZlcmxheS1jbGljayI6Im9uIiwic2dwYi1wb3B1cC1kaW1lbnNpb24tbW9kZSI6InJlc3BvbnNpdmVNb2RlIiwic2dwYi1yZXNwb25zaXZlLWRpbWVuc2lvbi1tZWFzdXJlIjoiYXV0byIsInNncGItd2lkdGgiOiI2NDBweCIsInNncGItaGVpZ2h0IjoiNDgwcHgiLCJzZ3BiLW1heC13aWR0aCI6IiIsInNncGItbWF4LWhlaWdodCI6IiIsInNncGItbWluLXdpZHRoIjoiMTIwIiwic2dwYi1taW4taGVpZ2h0IjoiIiwic2dwYi1vcGVuLWFuaW1hdGlvbi1lZmZlY3QiOiJObyBlZmZlY3QiLCJzZ3BiLWNsb3NlLWFuaW1hdGlvbi1lZmZlY3QiOiJObyBlZmZlY3QiLCJzZ3BiLWVuYWJsZS1jb250ZW50LXNjcm9sbGluZyI6Im9uIiwic2dwYi1wb3B1cC1vcmRlciI6IjAiLCJzZ3BiLXBvcHVwLWRlbGF5IjoiMCIsInNncGItcG9zdC1pZCI6IjE5Mjg3Iiwic2dwYi1lbmFibGUtcG9wdXAtb3ZlcmxheSI6Im9uIiwic2dwYi1idXR0b24taW1hZ2UtZGF0YSI6Imh0dHBzOlwvXC9vcGxvdmVyei5yZWRcL3dwLWNvbnRlbnRcL3BsdWdpbnNcL3BvcHVwLWJ1aWxkZXJcL3B1YmxpY1wvaW1nXC9Ob0ltYWdlLnBuZyIsInNncGItYmFja2dyb3VuZC1pbWFnZS1kYXRhIjoiIiwic2dwYkNvbmRpdGlvbnMiOm51bGx9']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 325px;']
+anime.oploverz.ac##IMG.sgpb-popup-close-button-6[alt='Close'][src='https://anime.oploverz.ac/wp-content/plugins/popup-builder/public/img/theme_6/close.png'][style='z-index: 999920; position: absolute; float: left; top: -18px; right: -18px; width: 30px; cursor: pointer; height: 30px; background-repeat: no-repeat; background-size: cover;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 614px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 0px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 0px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##CENTER
+anime.oploverz.ac##BUTTON.js-close
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 200px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 180px; top: 311px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 325px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 184px;']
+anime.oploverz.ac##DIV.sgpb-theme-6-overlay.sgpb-popup-overlay-19287.sgpb-popup-overlay[style='z-index: 9999; background-color: black; opacity: 0.6; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%;']
+anime.oploverz.ac##CENTER
+anime.oploverz.ac##DIV.widget.widgets
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 158px;']
+anime.oploverz.ac##IMG[src='https://anime.oploverz.ac/wp-content/uploads/2023/07/jumbo99-slot-gacor-24-September.gif'][alt='Jumbo99'][width='300'][height='300'][border='0']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 320px;']
+anime.oploverz.ac##DIV[style='height:100%;width:100%;overflow:auto;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 0px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 300px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 325px;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 12px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 312px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 187px;']
+anime.oploverz.ac##DIV.sgpb-theme-6-overlay.sgpb-popup-overlay-19287.sgpb-popup-overlay[style='z-index: 9999; background-color: black; opacity: 0.6; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%;']
+anime.oploverz.ac##A[href='https://rebrand.ly/k5oploverz'][target='_blank'][rel='nofollow']
+anime.oploverz.ac##CENTER
+anime.oploverz.ac##IMG[src='https://anime.oploverz.ac/wp-content/uploads/2023/07/jumbo99-slot-gacor-24-September.gif'][alt='Jumbo99'][width='300'][height='300'][border='0']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 320px;']
+anime.oploverz.ac##DIV[style='height:100%;width:100%;overflow:auto;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 12px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 325px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 325px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 200px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 187px;']
+anime.oploverz.ac##DIV.sgpb-theme-6-overlay.sgpb-popup-overlay-19287.sgpb-popup-overlay[style='z-index: 9999; background-color: black; opacity: 0.6; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%;']
+anime.oploverz.ac##A[href='https://rebrand.ly/k5oploverz'][target='_blank'][rel='noopener']
+anime.oploverz.ac##CENTER
+anime.oploverz.ac##IMG[src='http://anime.oploverz.ac/wp-content/uploads/2023/07/jumbo99-slot-gacor-24-September.gif'][alt='Jumbo99'][width='300'][height='300'][border='0']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 12px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 180px; top: 311px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 195px;']
+anime.oploverz.ac##DIV[style='height:100%;width:100%;overflow:auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 200px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 180px; top: 325px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 180px; top: 212px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 180px; top: 337px;']
+anime.oploverz.ac##IMG.sgpb-popup-close-button-6[alt='Close'][src='http://anime.oploverz.ac/wp-content/plugins/popup-builder/public/img/theme_6/close.png'][style='z-index: 999920; position: absolute; float: left; top: -18px; right: -18px; width: 30px; cursor: pointer; height: 30px; background-repeat: no-repeat; background-size: cover;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 0px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 325px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 260px;']
+anime.oploverz.ac##DIV.widget.widgets
+anime.oploverz.ac##ASIDE#sidebar[role='complementary']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 0px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 260px;']
+anime.oploverz.ac##DIV.sgpb-theme-6-overlay.sgpb-popup-overlay-19287.sgpb-popup-overlay[style='z-index: 9999; background-color: black; opacity: 0.6; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%;']
+anime.oploverz.ac##A[href='https://rebrand.ly/k5oploverz'][target='_blank'][rel='noopener']
+anime.oploverz.ac##CENTER
+anime.oploverz.ac##ASIDE#sidebar[role='complementary']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 135px;']
+anime.oploverz.ac##IMG[loading='lazy'][src='https://anime.oploverz.ac/wp-content/uploads/2023/07/jumbo99-slot-gacor-24-September.gif'][alt='Jumbo99'][width='300'][height='300'][border='0']
+anime.oploverz.ac##DIV[style='height:100%;width:100%;overflow:auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 325px;']
+anime.oploverz.ac##DIV.elementor-element.elementor-element-8d1aab8.e-con-full.e-flex.e-con.e-child[data-id='8d1aab8'][data-element_type='container'][data-settings='{"content_width":"full"}']
+anime.oploverz.ac##DIV.elementor-element.elementor-element-0454213.e-flex.e-con-boxed.e-con.e-parent[data-id='0454213'][data-element_type='container'][data-settings='{"content_width":"boxed"}'][data-core-v316-plus='true']
+anime.oploverz.ac##DIV.elementor-element.elementor-element-50461a5f.e-flex.e-con-boxed.e-con.e-parent[data-id='50461a5f'][data-element_type='container'][data-settings='{"content_width":"boxed"}'][data-core-v316-plus='true']
+anime.oploverz.ac##DIV.widget.widgets
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 260px;']
+anime.oploverz.ac##DIV.sgpb-theme-6-overlay.sgpb-popup-overlay-19287.sgpb-popup-overlay[style='z-index: 9999; background-color: black; opacity: 0.6; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%;']
+anime.oploverz.ac##A[href='https://s.id/1XdAX'][target='_blank'][rel='noopener']
+anime.oploverz.ac##CENTER
+anime.oploverz.ac##ASIDE#sidebar[role='complementary']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 0px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##IMG[loading='lazy'][src='https://anime.oploverz.ac/wp-content/uploads/2023/07/jumbo99-slot-gacor-24-September.gif'][alt='Jumbo99'][width='300'][height='300'][border='0']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 320px;']
+anime.oploverz.ac##DIV[style='height:100%;width:100%;overflow:auto;']
+anime.oploverz.ac##P
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 12px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 6px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 325px;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 312px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 614px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 312px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.elementor-element.elementor-element-8d1aab8.e-con-full.e-flex.e-con.e-child[data-id='8d1aab8'][data-element_type='container'][data-settings='{"content_width":"full"}']
+anime.oploverz.ac##DIV.elementor-element.elementor-element-0454213.e-flex.e-con-boxed.e-con.e-parent[data-id='0454213'][data-element_type='container'][data-settings='{"content_width":"boxed"}'][data-core-v316-plus='true']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 187px;']
+anime.oploverz.ac##DIV.sgpb-theme-6-overlay.sgpb-popup-overlay-19287.sgpb-popup-overlay[style='z-index: 9999; background-color: black; opacity: 0.6; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%;']
+anime.oploverz.ac##CENTER
+anime.oploverz.ac##ASIDE#sidebar[role='complementary']
+anime.oploverz.ac##IMG[loading='lazy'][src='https://anime.oploverz.ac/wp-content/uploads/2023/07/jumbo99-slot-gacor-24-September.gif'][alt='Jumbo99'][width='300'][height='300'][border='0']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 320px;']
+anime.oploverz.ac##P
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 12px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV[style='height:100%;width:100%;overflow:auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 325px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 180px; top: 299px;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 6px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 187px;']
+anime.oploverz.ac##DIV.sgpb-theme-6-overlay.sgpb-popup-overlay-19287.sgpb-popup-overlay[style='z-index: 9999; background-color: black; opacity: 0.6; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%;']
+anime.oploverz.ac##A[href='https://rebrand.ly/k5oploverz'][target='_blank'][rel='noopener']
+anime.oploverz.ac##CENTER
+anime.oploverz.ac##ASIDE#sidebar[role='complementary']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 161px;']
+anime.oploverz.ac##IMG[loading='lazy'][src='https://anime.oploverz.ac/wp-content/uploads/2023/07/jumbo99-slot-gacor-24-September.gif'][alt='Jumbo99'][width='300'][height='300'][border='0']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 320px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 294px;']
+anime.oploverz.ac##DIV[style='height:100%;width:100%;overflow:auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 325px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 299px;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 12px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.elementor-element.elementor-element-8d1aab8.e-con-full.e-flex.e-con.e-child[data-id='8d1aab8'][data-element_type='container'][data-settings='{"content_width":"full"}']
+anime.oploverz.ac##DIV.elementor-element.elementor-element-0454213.e-flex.e-con-boxed.e-con.e-parent[data-id='0454213'][data-element_type='container'][data-settings='{"content_width":"boxed"}'][data-core-v316-plus='true']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 299px;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 312px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 35px; top: 187px;']
+anime.oploverz.ac##IMG[loading='lazy'][src='https://anime.oploverz.ac/wp-content/uploads/2023/07/jumbo99-slot-gacor-24-September.gif'][alt='Jumbo99'][width='300'][height='300'][border='0']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 312px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 320px;']
+anime.oploverz.ac##DIV.sgpb-theme-6-overlay.sgpb-popup-overlay-19287.sgpb-popup-overlay[style='z-index: 9999; background-color: black; opacity: 0.6; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%;']
+anime.oploverz.ac##A[href='https://bit.ly/ppweb00-GBOSKY'][target='_blank'][rel='noopener']
+anime.oploverz.ac##CENTER
+anime.oploverz.ac##ASIDE#sidebar[role='complementary']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 294px;']
+anime.oploverz.ac##DIV[style='height:100%;width:100%;overflow:auto;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 325px;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 108px; top: 299px;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 12px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV.ads_area.ads_info
+anime.oploverz.ac##IMG[loading='lazy'][src='https://anime.oploverz.ac/wp-content/uploads/2024/01/Merdeka189-Slot-Gacor-5-Maret.gif'][alt='Merdekaslot'][width='300'][height='250'][border='0']
+anime.oploverz.ac##IMG[loading='lazy'][src='https://anime.oploverz.ac/wp-content/uploads/2024/01/Hobi188-New.gif'][alt='hobi188'][width='546'][height='68'][border='0']
+anime.oploverz.ac##IMG[loading='lazy'][src='https://anime.oploverz.ac/wp-content/uploads/2023/03/Ice3bet-20-Juni.gif'][alt='Ice3bet Slot Online'][width='546'][height='68'][border='0']
+anime.oploverz.ac##IMG[loading='lazy'][src='https://anime.oploverz.ac/wp-content/uploads/2024/01/NEY4D-10-Ap-New.gif'][alt='Ney4d'][width='546'][height='68'][border='0']
+anime.oploverz.ac##IMG[alt='close'][src='https://3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/btn_close.gif']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 180px; top: 361px;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 662px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 6px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+neonime.ink##IMG.initial.loaded[data-src='https://neonime.ink/wp-content/themes/grifus/images/donate/yunita/aslkddddd.gif'][alt='colok178'][rel='nofollow'][src='https://neonime.ink/wp-content/themes/grifus/images/donate/yunita/aslkddddd.gif'][data-was-processed='true']
+neonime.ink##IMG.initial.loaded[data-src='https://neonime.ink/wp-content/themes/grifus/images/donate/yunita/skddkdindo666.gif'][style='height: 60px;'][alt='INDO666'][rel='nofollow'][src='https://neonime.ink/wp-content/themes/grifus/images/donate/yunita/skddkdindo666.gif'][data-was-processed='true']
+neonime.ink##IMG.initial.loaded[data-src='https://neonime.ink/wp-content/themes/grifus/images/donate/yunita/skdkdgaza88.gif'][style='height: 60px;'][alt='GAZA88'][rel='nofollow'][src='https://neonime.ink/wp-content/themes/grifus/images/donate/yunita/skdkdgaza88.gif'][data-was-processed='true']
+neonime.ink##SPAN#counter_tampilan_tambahan
+neonime.ink##A[href='#']
+anime.oploverz.ac##DIV.elementor-element.elementor-element-0454213.e-flex.e-con-boxed.e-con.e-parent[data-id='0454213'][data-element_type='container'][data-core-v316-plus='true']
+anime.oploverz.ac##DIV.elementor-element.elementor-element-8d1aab8.e-con-full.e-flex.e-con.e-child[data-id='8d1aab8'][data-element_type='container']
+otakudesu.cloud##DIV.iklan
+otakudesu.cloud##IFRAME[src^='https://anime.berangkasilmu.com/'][style='width:95%;height:75px;border: none;'][allowfullscreen='true']
+otakudesu.cloud##DIV#iklanbawah[style='width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;']
+otakudesu.cloud##DIV.box_item_ads_popup
+zlink.fun/otk188
+desustream.me/banner/Otakudesu-baru.gif
+anime.oploverz.ac##IMG[loading='lazy'][src='https://oploverz.gold/wp-content/uploads/2024/02/Hobi188-New-Februari.gif'][alt='hobi188'][width='546'][height='68'][border='0']
+film21.fun##DIV#chaty-widget-0.chaty.chaty-id-0.chaty-widget-0.chaty-key-0.all_time.active[style='display: none'][data-key='0'][data-id='0'][data-identifier='0'][data-nonce='4f0259db4f'][data-animation='waggle']
+film21.fun##path[d='M3.56917 -2.55497e-07L0 6.42978L7.5349 1.87535L3.56917 -2.55497e-07Z'][transform='translate(13.9704 24.6145)'][fill='#E0E0E0']
+film21.fun##svg[width='39'][height='39'][viewBox='0 0 39 39'][fill='none'][xmlns='http://www.w3.org/2000/svg']
+film21.fun##circle.color-element[cx='19.4395'][cy='19.4395'][r='19.4395'][fill='#3E99D8']
+film21.fun##path[d='M20.8862 0.133954C20.754 0 20.4897 0 20.2253 0L0.396574 8.03723C0.132191 8.17118 0 8.43909 0 8.707C0 8.97491 0.132191 9.24282 0.396574 9.37677L17.5814 17.414C17.7136 17.414 17.7136 17.414 17.8458 17.414C17.978 17.414 18.1102 17.414 18.1102 17.28C18.2424 17.1461 18.3746 17.0121 18.5068 16.7442L21.1506 0.669769C21.1506 0.535815 21.1506 0.267908 20.8862 0.133954Z'][transform='translate(7.36069 10.9512)'][fill='white']
+film21.fun##path[d='M13.8801 0L0 11.52V19.4233L3.70136 13.2614L13.8801 0Z'][transform='translate(13.9704 11.6208)'][fill='#F2F2F2']
+91.201.113.77##IMG[alt='telegram'][style='position: fixed;bottom: 125px;right: 10;z-index:9999'][src='https://assets-global.website-files.com/658054a2f7175d3fabbf7636/658054e9003b470c26c87f3d_telegram.webp']
+91.201.113.77##A[href='https://t.me/tele01nonton'][target='_blank"']
+91.201.113.77##IMG.alignnone[alt='77play'][width='50%'][style='float:left;margin:auto;height:auto;'][src='/wp-content/uploads/banner/77play-Molly-640x67.gif'][height='60']
+91.201.113.77##IMG.alignnone[alt='77play'][laoding='lazy'][width='50%'][style='float:left;margin:auto;height:auto;'][src='/wp-content/uploads/banner/77play-Molly-640x67.gif'][height='60']
+streamwish.to##IFRAME[scrolling='no'][style='width: 100% !important; height: 114px !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: static !important; color-scheme: none; inset: 0px; overflow: hidden; z-index: 1 !important; display: block; user-select: none !important;']
+158.220.94.103##DIV.gmr-notification.player-notification.global-notification
+www.halodoc.com##DIV.article-page__social-buttons--mobile[_ngcontent-halodoc-c561909822]
+www.halodoc.com##HD-BASE-CHAT-DOCTOR-CARD.article-page__chat-doctor-card.sticky.bottom-10.flex[_ngcontent-halodoc-c561909822][_nghost-halodoc-c3465701937]
+poop.kim##DIV.n9VUXQmB98rW0ML_Bznz.KLjfIrumJezyRezUEFtz[data-element='empty'][data-izone='uc-area']
+poop.kim##DIV._4KjPzfFqnPyBgIgiXkX.frvBxo3OzNO6g_x_mz5H.oAWJ1Ltlnofke8Akcyko.uYZBnLDnIyswhKWzZLSW._rGGQOLsfdi_VLt1WJu6.amMb78RPPU8tNuFfBZUD[style='bottom: 10px;']
+poop.kim##DIV._XB7UGbHmwA69YNkGA_i[data-element='static-title']
+poop.kim##DIV._4KjPzfFqnPyBgIgiXkX.geFpwXJsI2omqWI9ooIg.YT4KyBxROV_k96PW_DLJ.VjIk2TJT4stQgyeHQSMo.sXMjiAYIyLfUvykrs3RT.amMb78RPPU8tNuFfBZUD[style='top: 10px;']
+poop.kim##DIV.Qtuy77MHyaY_f4VcEst_
+poop.kim##DIV.MaGVkb7h5G9eFvusZh_a._PgsYe7nRAdrFIzo_KF_
+poop.kim##DIV.AKlUUqvh1MGpxAOAQMnS
+poop.kim##DIV.p7FqHAXMzhhC5EXTI9Cu[data-element='body']
+poop.kim##DIV.HBZrltYPbeA9LwgnphSt[data-element='empty'][data-izone='main']
+poop.kim##DIV._57Fa0n2daaM7pvjIi0Q.false[data-element='title']
+poop.kim##DIV._4KjPzfFqnPyBgIgiXkX.skjdqirBD7_WSGmgBaTD.YT4KyBxROV_k96PW_DLJ.VjIk2TJT4stQgyeHQSMo.PVlu5dykxThc_sps_kiG.amMb78RPPU8tNuFfBZUD[style='top: 10px;']
+poop.kim##DIV._4KjPzfFqnPyBgIgiXkX.o3NcdUVFBYf7kKO0BS9Q.oAWJ1Ltlnofke8Akcyko.uYZBnLDnIyswhKWzZLSW._rGGQOLsfdi_VLt1WJu6.amMb78RPPU8tNuFfBZUD[style='bottom: 10px;']
+62.171.144.229##IFRAME[style='width: 100% !important; height: 172px !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: 0px 0px auto auto !important; overflow: hidden; z-index: 2147483647; display: block !important; min-width: 240px !important;']
+5.253.86.213##DIV#vgkblbeevvxoucrrmjlodloqmnnglntvocfgswlchduqjjsekpzzakvca.vgkblbeevvxoucrrmjlodloqmnnglntvocfgswlchduqjjsekpzzakvca.uefvnjvdnnqcxdozuvwalbsadhsbyrnusdfbiemmkgznmhceziazakvca
+5.253.86.213##DIV#vsubgogsxvfpyuwdangxmwlpmoxexdvroevjrqwvzseqwtakvca.vsubgogsxvfpyuwdangxmwlpmoxexdvroevjrqwvzseqwtakvca.uevzqrjaemzkuqmhejzxtbnmlddhlnpieerzngnuekrlkorexjenmtikgstzwewlbfivaakvcaakvca
+5.253.86.213##DIV#ruzrdezhchqvwtvtbdeujplydwzkwlqthzedflsspmngycfdmazkvyee.ruzrdezhchqvwtvtbdeujplydwzkwlqthzedflsspmngycfdmazkvyee.dlfxcdclrwdhntmlnxsndgmeiykhyynkchdahbtcvrtavuzcehqzzkvyee
+5.253.86.213##DIV#nnljtwpwwmckllazhabwxdnfwmczewahjtuwfrvgdrchdvjvpoduupny.nnljtwpwwmckllazhabwxdnfwmczewahjtuwfrvgdrchdvjvpoduupny.sehqnkjmdhvpzdzkduzwvjywmgxrnivvttzfjqujuthtajfcehpottuupny
+5.253.86.213##DIV#dungunlsendumpxskwxyxziarjnzzottqmrmhykirvibgltazuupny.dungunlsendumpxskwxyxziarjnzzottqmrmhykirvibgltazuupny.ylzjrezwlkyszzkatyrwzzllrwksmtdkzifrvfvglxwhffulruzhoamsypldtblqjdxmtkaequupnyuupny
+5.253.86.213##DIV#tyxtzkaxqxhyrunkuloscuonwtkujazdjjrwkkrsukykjmdkvyee.tyxtzkaxqxhyrunkuloscuonwtkujazdjjrwkkrsukykjmdkvyee.zgteselulrqpmqttndvkdvslvtkmzllwexqrxrosfrzdnizoxflkhxsjzwqzbtnslayqnzqrakvyeekvyee
+mangaplus.shueisha.co.jp##IMG.index-module_oneImage_2pH_3[src^='https://mangaplus.shueisha.co.jp/drm/popup/315694.jpg']
+m.youtube.com##DIV.video-ads.ytp-ad-module[data-layer='4']
+doroni.me##INS
+doroni.me##DIV.Popup__button.btn.btn-danger[type='button'][data-toggle='hide']
+doroni.me##IMG.Content__banner-image[src='https://doroni.me/images/vast/donasi.png'][style='max-width:95vw;']
+anoboy.baby##DIV.sidebar[style=' margin: auto;background-image: url(#);
+    background-repeat: no-repeat;   background-position: top;']
+anoboy.baby##IMG.i-amphtml-fill-content.i-amphtml-replaced-content[decoding='async'][alt='hoki'][src='/img/khm2.jpg']
+anoboy.baby##IMG.i-amphtml-fill-content.i-amphtml-replaced-content[decoding='async'][alt='macau'][src='/img/mcdm7.jpg']
+anoboy.baby##IMG.i-amphtml-fill-content.i-amphtml-replaced-content[decoding='async'][alt='discord'][src='/img/discord.png']
+anoboy.baby##DIV#ad_bawah
+kazefuri.ink##DIV.blox.mlb.kln
+kazesub.com##A[href='https://heylink.cam/indo666']
+kazesub.com##DIV.blox.mlb.kln
+kazesub.com##IFRAME[style='width: 100% !important; height: 286px !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: 0px 0px auto auto !important; overflow: hidden; z-index: 2147483647; display: block !important; min-width: 240px !important;']
+kazefuri.ink##DIV.kln
+77.238.245.181##IMG.alignnone[alt='77play'][laoding='lazy'][width='50%'][style='float:left;margin:auto;height:auto;'][src='https://01nonton.pages.dev/ads77play.gif'][height='60']
+77.238.245.181##IMG.alignnone[alt='77play'][width='50%'][style='float:left;margin:auto;height:auto;'][src='https://01nonton.pages.dev/ads77play.gif'][height='60']
+77.238.245.181##IMG.alignnone[alt='mabosway'][width='50%'][style='float:left;margin:auto;height:auto;'][src='/wp-content/uploads/banner/mabosway.webp'][height='60']
+77.238.245.181##IMG.alignnone[alt='indo666'][width='50%'][style='float:left;margin:auto;height:auto;'][src='/wp-content/uploads/banner/indo666.gif'][height='60']
+77.238.245.181##DIV.sidebar.right.scrolling
+77.238.245.181##A[href='https://t.me/tele01nonton'][target='_blank"']
+anime.oploverz.ac##DIV.blox.mlb.kln
+anime.oploverz.ac##DIV.kln
+anime.oploverz.ac##DIV.chain[align='center']
+anime.oploverz.ac##A[href='https://heylink.me/padangtoto/'][target='_blank'][rel='noopener']
+anime.oploverz.ac##IMG[src='https://anime.oploverz.ac/wp-content/uploads/2024/04/sidebar-4-jULI.gif'][alt='BO177'][width='260'][height='210'][border='0']
+anime.oploverz.ac##DIV#overplay
+anime.oploverz.ac##IMG[src='https://3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/btn_close.gif']
+tv13.nontondrama.click##DIV#top-b.row
+tv13.nontondrama.click##DIV#admad
+lk21.acop.edu.in##A[href='https://kutt.arrehlah.com/bk88'][rel='nofollow noopener'][target='_blank']
+nontonfilmgratis.club##IMG[src='/image/midasplay.webm'][alt][width='720'][height='70']
+nontonfilmgratis.club##IMG[src='/image/388hero.webm'][alt][width='720'][height='70']
+nontonfilmgratis.club##IMG[border='none'][src='/image/close.gif']
+www.pornhub.com##DIV#adSpot.shiftDown
+www.pornhub.com##DIV.topAdContainter
+www.pornhub.com##DIV.adContainer.clearfix.middleVideoAdContainer
+www.pornhub.com##DIV.adContainer.clearfix.ad-tabSplit
+www.pornhub.com##DIV.mgp_ctaContainer.mgp_twoLines
+www.pornhub.com##SPAN.mgp_adRollLink
+www.pornhub.com##DIV.mgp_adRollEventCatcher.mgp_clickable
+mangaplus.shueisha.co.jp##IMG.index-module_oneImage_2pH_3[src^='https://mangaplus.shueisha.co.jp/drm/popup/354979.jpg']
+mangaplus.shueisha.co.jp##DIV.index-module_container_3nJxv
+tv2.lk21official.mom##DIV#top-b.row
+tv2.lk21official.mom##DIV#admad
+tv2.lk21official.mom##DIV#skip-ads
+tv2.lk21official.mom##DIV#player-lux
+tv2.lk21official.mom##DIV#a id="admad" href="" target="_blank" rel="nofollow">
+doroni.me##INS
+doroni.me##A[href='https://trakteer.id/doronime/tip'][target='_blank']
+doroni.me##IMG.Content__banner-image[src='https://doroni.me/images/vast/donasi1.png'][style='max-width:95vw;']
+doroni.me##DIV.Popup__button.btn.btn-danger[type='button'][data-toggle='hide']
+doroni.me##IMG.Content__banner-image[src='https://doroni.me/images/vast/donasi2.png'][style='max-width:95vw;']
+doroni.me##IMG.Content__banner-image[src='https://doroni.me/images/vast/donasi4.png'][style='max-width:95vw;']
+doroni.me/images/vast/donasi1.png
+doroni.me/images/vast/donasi2.png
+doroni.me/images/vast/donasi4.png
+doroni.me##DIV.Popup.show[data-parent='hide'][data-toggle='hide'][data-timer='2']
+doroni.me/images/vast/donasi3.png
+doroni.me/images/vast/donasi5.png
+kuronime.me##DIV.pd-ads
+kuronime.me##DIV.pda-ads[style='margin-left:15px;']
+kuronime.me##DIV.blox.mlb.kln
+kuronime.me##IMG[src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAABFCAMAAAD6mB0uAAADAFBMVEUAAAAhaJqs0uxmq9sKKD3d7fhFmdOFveRMndUtgr0UR2tOpuMDDxj0+f3A3fEzk9Vwu/CLyvgzmuJmtexbr+k2h8BcpdlCouWdyemj1foOOFUaWIN2tOCFxfMpd65Nqeo7k9B9ueNQotvR5vWVxectiss9neAGGijr9PsBBwuc0vlCltBmsOSUzvf+//+q2/5Tqud8wPE0jcwlhciLwuoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABDJKZkAAABAHRSTlP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AU/cHJQAAAAlwSFlzAAALEwAACxMBAJqcGAAACcJJREFUaN7tWuuOozoSPsECHKFA6KRNRnITx1yE4iSTGN7/1XrLNjYml9Hs+TEbaac0GqlNueqrct0M+ef7zemfvwD/fwGWnxljLZPLxUuWRano1woWS6noF1K0nOWyXPw+wIVsi32ScKAkSfb7ov0s78C3RbF3VBTsKcySAdPV0H7f9o8MS1b4LIX8HYCyAGxYMCkbKZnACqXaXLRZJjPWaokGvqUEpN/rXzBYBb5Esar/FY9nRwle0KszmrE8BZgpdKxpGEaUUsQFwIw0BEdKozKgMQRWYM2QZJOYZTFagSPBgATGys5r0cJZlgqcUtIwfo8wSdpfAWwKgCd7HKfdxVBXBUg2gjtblQFSGxDvgmBXxxQJ9ad2I7OHYPgiYJQCE4Lv7UywJEFaszuEag+eOXEOsN0nXPQ4WF1mFMZS4lGShkd2Vec971IqeqEZIF5b5byrPgdJ4jTsJjsjB4dLpCVnwkOYJLAnA7blc4BloTl2l0cKUT8KT3CDq0eGrmYSTxGlBPVRHc6F0Mbx8GbQa7seewCxFEFYDTIqnwHU+KR4ol1R3WhbAR9aPWXoeON0gfsaFjzyVWAd9z14uXDpXAjao87oKhaPABeF5ggvLyjQgcgZ7l4wrJyuhEc9esrWodGKRDCjKYVzd/jGtaDhxSNAwMcZ8/CtqjT1Qy1QIcSfRsDoHxklo//6+JUVxCAEQSMLtZA5y8zpdRhSR94DbPXxBVPAHIRKQYamJRDFI+lCIAzq+HCI68AZgYwLk9f4QLswiQv1yzijg0w2+JrUg1zcASz3yijq5OxkwyIMRUz2xFUcxjCLxr8qYutgz+qRIdXOADlo8lhAMZRAmrqV1Llw1KbzBKqH9U7Q6zhdzgGqwmVtAop7gblpArixmC5xgyUe3ZcpDkUY8nWwFqgzhkBxPk2jXkKZlk2P03s/R9ZjELscqltgDTCVp50BLK8zBwa9K08qIa1DqiaSfEzq3higjWDMJOwKQ3uDQKld6vfSWKGKZzBJMS60slKwVfS1DeSxdu9nAE0EptNZeuUTQj6w60KSmRuMDcIGJgBMEiY6385krIvCiYe9JmutXNr39hBC5gSXPkDVOBm2hg9+9VSm2nOVPsCJIfIBuvSc2wlSopUtB2MUOlOCwwi+i6RTnXkAS13b7QmvIsZnDdJmdw0xOAKknge5GIOuEyLxDuLOTtzv3EHYphQ/lNJpS+sBzGCWiqzDIUxhpvKobSVLV111aBhriE090ULXhWdtK3pko4u1rUuRFZZzMc0YcxfSmActa+Z9C/WsnfZ4AD8+PrKmT11oZ9mHTxk8BGx9k2X9CDDUfymCOmPVxLAx6y2MCjjmQppw4jNLPZrjk5Pm7GMO8EPa7cA3xzdKB+Ufk/pd048kUWUTsFEcyKXInZisD+6eZLKfCiTkyswxvgfVQUlXvXjTvqTGZVKYBkMcxzs3OQYwKgFHT10tZfO9zJUSzThb0tVGzjaYgcEAVKEkXXXATTsLHhMvYzTi1athoi8/mQ+Q9u1dKNsOGMpsjF859Qbg9wMQFJYeQHXhsABXkXzEZ3c5rscxoKqZUtF4AO82W+wdy4y9rJ86PeTdPDdnAJOk8LIvK5I5FYX6l/hcL4apqHV959C0cyHOgzAwKI2AbzcbI8w1ytLeB3jdQ7W13sYZT/YeQfGN4DYHTWHvxrgXhCS2DQw6950YV8IBoOqQkReAJkiixN/hAYROd8X3rchrJZkkWN/APDNATxAjhAii02hfSeF8DA1jfmFzs2SoBscnQxlq/CvU3kuSdqu21266B4BbS2o8waFKUtVfsCutXczUvKhnlWk8INJxVBJ7Yrbe3gqgAz7qDA094NMGr8ws1QIjl0ny1pOMTasNGd5uufVzh+EaxQ3DNCtdYgBoAwuL7YyEa70NzDfTjIR7VjnXOO7N3h8WtpvNlmeuUksCCyNtiQ2dONvCH4GtckRJGVnYVL85s5qHxhMDTPJwcY2c26au5hdsixfMa1u3pZhNM7BA5OD2CHKa5NrSF2cnYApGUZGvHE+BR7DNow5c7vPY8O1ERNzdq4sYAbNrOwZwq3jDfIDZer05OS2XikmCTprIdNEj0WlzkrVVftqsR4Kt7vQkIbJ2aans1BybE3E5C9njigFckBA8xPb0KHNiZ/Pg91apcWcAF3UpYaSHcb5x98dKks36xMbzxj5A5I51J08n7LpN3OOT9ggsupy4cDFVDCLRRqm2AsKMn4zQ6/xO0io9pJladzUgHEX+bQcJ2HoS1OpG9jBOSLjcpkJ5eTfdvSQmUIqwdG6FMHUnCtGOjIeRje1ajgDZ3bVz+3VbU878+WzV+V0jkGh9u63xaOoKNeqtkFIupLsRdYIoQ6dqHsaYQS3CsVcqsSAuW9DmpmhNscsTrJc29/fifv11u1HMXrz5uKSSrNVGTtyFEulXa4LT6SVHLSnwUOGPeWFVed2nizCSthJom7+AYI8cYyfIQMTXjT2+WVB8FGfB81lFkoMSdUP+ONMp8rEwpJmctse3UBGmlNkbhOY2dEPjxaYTsJpfn7w82ue55kOPTuwOUsnKgYP+ohl3GB8U12uEAcOH241ElepEVqamr4MNHoqHfP309dv1fM6/YjhmFMxGlrAWgsZG1FfM6lf4UgH4DNdAGXk0pALrY+UtKOwEZA4OHtBAx5MnZFiXz19gJvnxrIRjKNRxkFZhF1ZpjZgAsfnZ0GAP6H4cTKH/xF8jVz4cMBu6OwaGAZMWcoApIx6szFEyyiCYu4OIt4tXb1jl7XhU0mMK/YAJRYCVDsP5fBwJ5DASTG+9VsoIGGsiODzQeDz+UHQ8fw1IwFFU3UqxpDuEFbxcSQB3nZWe8yRVLSvJERb41P7qJfo1B+lqcz3EB0rpIR5mYuBZHRPBMIcKAzXGvCSHgkOBEcAd8xvUsFt+BIwDhRtzpMo9mMlRXMPufKPenpYsWX8B+09tjCeaQkVf/Potf3nNjz/Nxh/e9p+KfowrZ/XmfCRK41h7GJ6cb9vPUYrYKIxHYKRImQngAPyGzb6ibMESBVMTgL9t+OfvfMj5vK71GeT5esOx+FQU8c06NzA1UM+lCjSs5Ws+/8QhFUZHd+i8b0IiwkDis/zvPoU9+8ZV4tvPR4LDBHCfT4VEW9Ost6L8Qx8T5RziOgIHl/+bj4mvaOvh27zl59iNw5cv3hLgIrcA+Zt+0LYuzN/1izsfAUZvDnD9tr9ZMEd8XL4tQJMkydv+6oP9qRL4bwHe/lwA/iuAicK3fd8f9kgYac78+20Bluf0uC6/3xZgmR83n2/8263lni++v98Y4J9G9/fneX8BvgH9B46Rc97/daLhAAAAAElFTkSuQmCC'][style='width: 80px; position: absolute; left: -0px; top: -20px']
+kuronime.me##DIV.CboxButton[style='opacity: 1;']
+kuronime.me##DIV#popup_box_donasi.box_item_berlangganan_popup[style='display: block;']
+kuronime.me##DIV#iklantengah1
+kuronime.me##A#aiklantengah1.iklantengah1[href='https://mango-fruit-3.com/register/YG6J244N'][target='_blank']
+kuronime.me##IMG#imgiklantengah1[src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUEuZ0TfKYWil03wS9ZXsXTTPDiu_NtFdyLjegdpmiKl7KjQ3LCYT7Wpq5ZZDdN8YoXeaSm35MozKMIZcbREqdrsXJ8ywW0cgpya16-fRTmVjpGRzzQ4XCgMNeXAoX_FU1X6QT7vAi8XHigKVHYluU9MNe9Sd6N_2LSI9zhNj1O_kAvFqXIQvX3aSPzwM/s500/bandarxl%20baner%20dalam%20player.gif'][width='100%'][height='100%'][alt='bandarxl'][style='width:100%;height:100%']
+kazefuri.club##DIV.blox.mlb.kln
+kazefuri.club##DIV.announ
+kazefuri.club##DIV.sosmed
+anichin.site##DIV.blox.mlb.kln
+anichin.site##DIV.sosmed
+anichin.site##DIV.announ
+d000d.com##DIV[style='position: absolute; inset: 0px; margin: 1.5%;']
+tv3.lk21official.mom##DIV#top-b.row
+filmapik.ing##DIV#le_header_ads.ads
+boybuso.com##A#dontfoid[href^='https://20.precisionautos.autos/lp_k1_up64u7wb.html'][target='_blank'][rel='noopener noreferrer'][znid='8380370'][style='top: 0px; left: 0px; width: 360px; height: 674px; position: fixed; z-index: 2147483647;']
+boybuso.com##A#dontfoid[href^='https://whaiwhoo.com/finance-survey/12/'][target='_blank'][rel='noopener noreferrer'][znid='8380370'][style='top: 0px; left: 0px; width: 360px; height: 674px; position: fixed; z-index: 2147483647;']
+boybuso.com##A#dontfoid[href^='https://tr-bouncer.com/d'][target='_blank'][rel='noopener noreferrer'][znid='8380370'][style='top: 0px; left: 0px; width: 360px; height: 674px; position: fixed; z-index: 2147483647;']
+missav.com/pop?url=https%3A%2F%2Ftsyndicate.com%2Fapi%2Fv1%2Fdirect%2Fc65c80b49bf04c139b29dba8137a6419%3F3
+tv1.anikor.pics##DIV.announ
+boybuso.com##A#dontfoid[href^='https://usbys.com/kfrWDk'][target='_blank'][rel='noopener noreferrer'][znid='8380370'][style='top: 0px; left: 0px; width: 360px; height: 674px; position: fixed; z-index: 2147483647;']
+boybuso.com##A#dontfoid[href^='https://usbys.com/kfrWDk'][target='_blank'][rel='noopener noreferrer'][znid='8380370'][style='top: 0px; left: 0px; width: 360px; height: 622px; position: fixed; z-index: 2147483647;']
+boybuso.com##A#dontfoid[href^='http://tiktok.racunn.com'][target='_blank'][rel='noopener noreferrer'][znid='8380370'][style='top: 0px; left: 0px; width: 360px; height: 622px; position: fixed; z-index: 2147483647;']
+boybuso.com##IN-PAGE-MESSAGE[doskip='1'][data-icon='https://zsxeymv.com/c55e55de661eb1ef9d8df3db49446d0a_9936.jpg?kSlBZT=359575020&tYDc=23703636'][data-title='Hanna,  25 years'][data-description='(876) meters from you'][data-offset-top='0'][data-render-pos-desktop='top'][data-render-pos-mobile='top'][data-imp-link='https://zsxeymv.com/44o0nl2024m3jij5?t=1&c=23703636&stamat=m%257C%252C%252CQhKW4jdjtGU3B5_GH0dEdHP3xP.d17%252CJEspH9fU5HLS1HdgUFMgvlxFlA613tFWrspW6VU7xHo_pAFpg1JFO-SGzjDYM_ORj5-bo3ZBb1DN7Jk3-dUcBBOokihXv0u_SKpJLXN71T3dW4nSbRikxdzqKQDesx4qD2IjsGyaja0U_tYicpS-iAhRPx81YTcgqVKMCPLpyC2zHvKuCQq2nngYeIrVGTOu2m-YnApww2N2hv2_2qLc2jNFzlIzxP8wjRzmRILB1gtVIY3c9xbMZRDz42Mq79UFhAnUbjzGYbZdyitav5lPiouzUqu3CMmZulImtj90v5EX-xzM_yEqbQ8C6m5wg8NtPG9NLrwm3C-hdF_MkAwkQntqIFXTrs0cPEYePvakDM4tI44FpOZmgZIl7REwgkgVd3BJhAxYsm3UMAYEv8QnhtL5JtBG1MqnGkNTSxIy_i_EA9FW5uH806NCvHZAB6n6n16KZK6XQkG1dcqDYHsQgFhebkcxtBbrLBrxHdlOrHvS0lLQP7vy9ukwgdxpg31FouZLQQnSRj9cYQ0nA7H1DJ_O7NYEOosDadOPFk0yrJYPTtlUnsvSLE4t9eosvERVUnsKnQIxABx6dl5ja0-OCuyyhULPyW4iHk7mBsrfx7QyVglMaMDckVRm-Y6t8P3awqh459NXuAiF4SYYSiiF_KvS3jLQc7cLjtKfV0mVwWFJ3E1u5lLppHNZyndKyrPmRfYIhbBoBVQMKfVWgq7wXJ_y_6XBHIxuIVlGfiqqmpWRFQt0WXajzoDWkb7jhemUumX94Q8Gk6iTxAecMesEpkrhe-noTOZl1Y06mSRiokdcCdJA7pIAhQPJqCG_tGLMKtyaoPGBc0UClSdEshKPFQ%252C%252C&chu=%22Not%2FA)Brand%22%3Bv%3D8%2C%20%22Chromium%22%3Bv%3D126%2C%20%22Android%20WebView%22%3Bv%3D126&chmob=%3F1&chp=Android']
+rebahinxxi.online##IMG[src='/wp-content/uploads/2020/11/telegram_PNG36.png'][alt='RTP Slot'][width='85'][height='85']
+rebahinxxi.online##IMG[src='/wp-content/uploads/2023/10/rebahinQRcode.png'][alt='Whatsapp'][width='85'][height='85']
+rebahinxxi.online##DIV[style='position: fixed; bottom: 240px; right: 15px; z-index: 10; opacity: 0.98;']
+rebahinxxi.online##DIV[style='position: fixed; bottom: 140px; right: 15px; z-index: 10; opacity: 0.98;']
+tv3.anikor.pics##DIV.announ
+tv7.anikor.pics##A[href='http://indpr88.site/Anikorxindprd'][target='_blank']
+tv7.anikor.pics##DIV.ctrx[align='center']
+tv7.anikor.pics##DIV#floatcenter
+tv7.anikor.pics##DIV#teaser3[style='width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;']
+tv7.anikor.pics##DIV#fixedban[style='width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;top:0;z-index:999;-webkit-transform:translateZ(0);']
+anikun.sbs##DIV#gb-widget-9301[style='bottom: 14px; left: 16px; box-sizing: border-box; direction: ltr; text-align: left; flex-direction: row-reverse; position: fixed !important; z-index: 16000160 !important; opacity: 1;']
+tv7.anikor.pics##DIV#gb-widget-9775[style='
+    bottom: 14px;
+    left: 16px;
+    // opacity: 0;
+    // transition: opacity 0.5s;
+    box-sizing: border-box;
+    position: fixed !important;
+    z-index: 16000160 !important;
+    direction: ltr;
+    text-align: left;
+    display: false;
+    align-items: false;
+    flex-direction: row-reverse;
+  ']
+tv7.anikor.pics##IMG[alt='INDOPRIDE88'][src='https://tv7.anikor.pics/wp-content/uploads/2024/07/INDOPRIDE88_Banner-Gif_400x400px.gif'][width='300px']
+tv7.anikor.pics/wp-content/uploads/2024/07/INDOPRIDE88_Banner-Gif_400x400px.gif
+tv7.anikor.pics##DIV.announ
+boybuso.com##IN-PAGE-MESSAGE[doskip='1'][data-icon='https://gecdwmkee.com/d2a417db8d96752469b28637d24ed213_9491.png?kwUsZ=353198820&Hb=23684728'][data-title='✅Selamat! 999,000,000 Rp'][data-description='Jawab beberapa pertanyaan sekarang'][data-offset-top='0'][data-render-pos-desktop='top'][data-render-pos-mobile='top'][data-imp-link='https://gecdwmkee.com/p12no3kjn0io4kijl0po?t=1&c=23684728&stamat=m%257C%252C%252CQ2Ni4jKitGU3Bv_GH0dEdHP3xP.623%252CnnBgrIH5z_yQUix9ObPYpDGrccg91yqecz1ZCVU2xrGEb9cIHUfxJeX9C-28OZ8ip2K3ZBdzVcL2F8gVK9cSxR7OwS-MKGoHm1SxeJ2ydZHrOPyV-9nNW7AqrTJHsjIqc8WGLV-4AVWRK7EJQlzfze3LlHg4Dzylm2dyYtG8MuYM9yEXapvthlj6O4kidRoJfy4qBz9Q4UZ4qwwEOAHBbXyVvN-IEu96beU3DCzXiZbXnCTcR-7RWfMP2E1zmzOeept25vwjYxfOIfocAZspQtEt382DJ3HgVHT5aueFLQ6a39MWtELVy40vzCtM9eKeHUioHeya2xW2hZXM8jiu4XCY8PN2nkA_H-ZAFeX1W_ZVbxiGFjL78Eu8b1Gl10w066YUpfMHMoPhfxwwOGvV9pgMQ3F9yQvmy8pLPwpcZA_EPJBPltGzLC1hbIQcZaqtgW9850hChUp0mmSvMADp-h8GD5vFJ1NGCU619rstrkRscpgZCf_hc69PGayL4_7OYRuUkOs4Yf6YiuKECeSTS3LpmvRVlPCslLALRSqJcEs5bZ9gnHllFyeUrovK5PjBeST4EMK2tYwyjecgCqgycoxWC9Km8sTKpUwXcp_sIftglxPg_LuYHPVuxm-mUYKoV_FBJHGRFOTWxkVKhvSRyGx7y5pY0XHJzTLX4chqFc8iTZdsxghj-inqfbrrg8UYaGmzDuwiNcQl6-KLZEN4DXNSabEArzABMofurU3szEQ_ik3miAr41X_K-usDnuT0&chu=%22Not%2FA)Brand%22%3Bv%3D8%2C%20%22Chromium%22%3Bv%3D126%2C%20%22Android%20WebView%22%3Bv%3D126&chmob=%3F1&chp=Android']
+samehada.care##DIV.kln
+zoronime.com##DIV.alert.small
+boybuso.com##A#dontfoid[href^='https://ultimaterides.autos/lp_i25_8aaxargt.html'][target='_blank'][rel='noopener noreferrer'][znid='8380370'][style='top: 0px; left: 0px; width: 360px; height: 674px; position: fixed; z-index: 2147483647; background-color: transparent;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 562px; max-width: 266px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 12px; width: 0px; background-repeat: no-repeat; background-position: center center; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##IMG.sgpb-popup-close-button-6[alt='Close'][src='https://anime.oploverz.ac/wp-content/plugins/popup-builder/public/img/theme_6/close.png'][style='z-index: 999920; position: absolute; float: left; top: -18px; right: -18px; width: 30px; cursor: pointer; height: 30px; background-repeat: no-repeat; background-size: cover;']
+anime.oploverz.ac##DIV.sgpb-popup-dialog-main-div-theme-wrapper-6[style='z-index: 999910; position: fixed; left: 180px; top: 311px;']
+anime.oploverz.ac##IMG[src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgROVc5QVZROaXVKwbm3KX1NZs-qYcN5DZdsmsXG7rnrBTWXxwUDsW7QVMC_fxD4WuebjNq5GB1VCbH1EBUszwuJtrtSfySuGR4pEMYFmZzi68i3QGuRnl6pCvNClYOstjilPsYkzotESJ6SV0dqDrCEt-oYo8neZxEcJA6I-RxMSUKDzxGDhT7xj69Zdo/s1600/sidebar%204%20jULI.gif'][alt='BO177'][width='260'][height='210'][border='0']
+anime.oploverz.ac##A[href='https://pub-6cb25baa34444d9ab72204b54305bdee.r2.dev/animeloverz.html'][target='_blank'][rel='noopener']
+anime.oploverz.ac##DIV#histats_counter[data-wpr-lazyrender='1']
+anime.oploverz.ac##A[href='https://masuk1.redirect388herosafest.com/register/B7089FA3'][target='_blank'][rel='noopener']
+anime.oploverz.ac##DIV.widget_text.section
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 628px; max-width: 280px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 5px; width: 290px; background-repeat: no-repeat; height: 540px; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 576px; max-width: 280px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 5px; width: 290px; background-repeat: no-repeat; height: 540px; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+v5.animasu.cc##DIV.wrapper
+164.215.103.204##DIV.idmuvi-topbanner-aftermenu
+164.215.103.201##DIV.idmuvi-topbanner-aftermenu
+www.dibalik.com##DIV#fixedbox.f_floating_div.f_floating_div_column
+www.dibalik.com##DIV[style='text-align:center']
+www.dibalik.com##DIV#id_mobile_footer_semprot
+www.dibalik.com##A[href^='/yum.php'][target='_blank'][rel='external nofollow noopener']
+www.dibalik.com##DIV[style='padding-bottom:2em;padding-top:2em;text-align:center']
+www.dibalik.com##DIV.popup-cr7[style='position: fixed; z-index: 9999; bottom: 20%; left: 0px; right: 0px; text-align: center; display: block;']
+www.imagebam.com##DIV._ln-floater[style='overflow: visible; height: 100px;']
+www.imagebam.com##DIV.text-center
+dood.to##IFRAME[style='width: 200px !important; height: 410px !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: auto auto 0px 0px !important; overflow: hidden; z-index: 2147483647; display: block !important; max-width: 100% !important; max-height: 100% !important;']
+dood.to##IFRAME[style='width: 310px !important; height: 265px !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: auto 0px 0px auto !important; overflow: hidden; z-index: 2147483647; display: block !important; max-width: 100% !important; max-height: 100% !important;']
+doods.pro##IFRAME[style='width: 310px !important; height: 265px !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: auto 0px 0px auto !important; overflow: hidden; z-index: 2147483647; display: block !important; max-width: 100% !important; max-height: 100% !important;']
+164.215.103.201##IFRAME[style='width: 100% !important; height: 100% !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: 0px; overflow: hidden; z-index: 2147483646; display: block !important;']
+rebahinxxi.life##DIV.extend[style='margin-top:1em;text-align:center;']
+rebahinxxi.life##DIV[style='position: fixed; bottom: 140px; right: 15px; z-index: 10; opacity: 0.98;']
+rebahinxxi.life##DIV[style='position: fixed; bottom: 240px; right: 15px; z-index: 10; opacity: 0.98;']
+v6.animasu.cc##DIV.kolom-kiri
+v6.animasu.cc##DIV.baris
+rebahinxxi.life##DIV.ads-atas-player.main-content.main-detail[style='width:85%; max-width:1700px ;']
+dood.la##DIV.container.mt-3.mb-3.text-center
+146.19.173.228##DIV.idmuvi-topbanner-aftermenu
+bokepsin.lol##IMG.entered.loaded.lazyloaded[src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rpJMI2IH745ri_w1yGurEKzMNXo79ukAb-Sr0eoUzq8YeptwKjp6t0wmFgMgeROve6NaNyihv-Oai-x9AK1UJciZLMZmQrZ1bX7dBlVoJOfP5P0mh2Jyz6hjdVxWox_OJlzSeqByJ2SJFml_iI4WwSFDelqTZfdDq-4HCjkCUhS4LFWIwnQblIfPP0f9/s724/S88.webp'][alt='savaya88'][data-lazy-src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rpJMI2IH745ri_w1yGurEKzMNXo79ukAb-Sr0eoUzq8YeptwKjp6t0wmFgMgeROve6NaNyihv-Oai-x9AK1UJciZLMZmQrZ1bX7dBlVoJOfP5P0mh2Jyz6hjdVxWox_OJlzSeqByJ2SJFml_iI4WwSFDelqTZfdDq-4HCjkCUhS4LFWIwnQblIfPP0f9/s724/S88.webp'][data-was-processed='true'][data-ll-status='loaded']
+anime.oploverz.ac##IFRAME#dsq-app5574[name='dsq-app5574'][allowtransparency='true'][frameborder='0'][scrolling='no'][tabindex='0'][width='100%'][src^='https://disqus.com/embed/comments/'][style='width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important; height: 902px !important;'][horizontalscrolling='no'][verticalscrolling='no']
+anime.oploverz.ac##IFRAME#dsq-app8171[name='dsq-app8171'][allowtransparency='true'][frameborder='0'][scrolling='no'][tabindex='0'][width='100%'][src^='https://disqus.com/embed/comments/'][style='width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important; height: 665px !important;'][horizontalscrolling='no'][verticalscrolling='no']
+anime.oploverz.ac##IFRAME#dsq-app7447[name='dsq-app7447'][allowtransparency='true'][frameborder='0'][scrolling='no'][tabindex='0'][width='100%'][src^='https://disqus.com/embed/comments/'][style='width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important; height: 665px !important;'][horizontalscrolling='no'][verticalscrolling='no']
+anime.oploverz.ac##DIV#disqus_thread
+v9.animasu.cc##IMG.lazyload[alt='H1'][src='//blogger.googleusercontent.com/img/a/AVvXsEgdR9z6gx7O7MQPhKKXzCItLKvyhpeRjFltSomVWWkFOuCrA5wE3va0QmqDeKohc-gawey3XtDY2fk6_AaazJ2Yk_SrOY7cP8JiFG4PTNLGdIKhQO3y3S_tt_xncDChiK7s1tGWLQakZ4rx7ls0BdbLGlLZvdbe21gn6REgd3SihIp_U8E4gpYYfJXmi9w=s728']
+v9.animasu.cc##IMG.lazyload[alt='H4'][src='//blogger.googleusercontent.com/img/a/AVvXsEgXv9t7fego9cz5A8YFxhdAg1JmfP_QrEAWy7qqOms-xBwCel568Igl88UU5ZaF-mqbb1c94dtKnCdwsGpuOsFKqZzZGYRDRZyR_VuekY7C46yl7sEoTJ_coxziMxwpEZdXGOdAJTOMSZ3crbje_wLs36wX-tg7ebDcfZtVIZDOnKhcX3p5JYdMwCZ5f88=s728']
+v9.animasu.cc##IMG.lazyload[alt='H3'][src='//blogger.googleusercontent.com/img/a/AVvXsEjhnzq9-2dl1bUqXFh5VBcO2qcRgETmREDTJlKA0H5DGFcBaCpFNTkdp1AsBUzDR7DcEMIyvUnweZp0MYjzEQyh8TGZaiq968vAXq-1X3wY7SOMFy4-8i21OL3Otpv6OPbpA0arTrQadVBiRgKnte_K0oFZ1hY1QskNamKoOHl5CkCkZgwq_DTsF_KUadk=s728']
+v9.animasu.cc##IMG.lazyload[alt='H2'][src='//blogger.googleusercontent.com/img/a/AVvXsEiiEvB1UMKFTUQ7z0Lth5s_YpGVYWxouAfnDI_em7-8tp7ggsawYp2JzDSYNmDcMXNiijrRshDg7BDbszl6F45hK2yTL17OHwu--6tcuEEzxdMyyQSgO9u0arx61dMvL_f4iNkDRNEungmc8AiGenBlL9P450ZUC23_Q2QQaQOmihf9Aor0uCRW59guD0I=s728']
+v9.animasu.cc##IMG.lazyload[alt='H6'][src='//blogger.googleusercontent.com/img/a/AVvXsEgnwEOSC30I4dTa2jzAYNRtUNrZ83RGH-20yJilJehyaD0isu5uGFLX5wE9IfydO-bEYMAlaLwX1KcS-va4x-mxL_0SunoeypQYeiTlluG8Twun-2DK_NAp7Zv4e5VFNBAyro1odU2EjAAifOr-KHCFykWbwNJxZ3l0zLA_Jy0zpdEstPZyUoVNw3uwtlU=s728']
+v9.animasu.cc##IMG.lazyload[alt='H5'][src='//blogger.googleusercontent.com/img/a/AVvXsEjAMSClbnaawlIzYtbycB94ZzGEfzRKWcZ4qS63QazotY-2KtIcTaPpFSWkJOxwyvQZyrTJA9yjIPBsnEWqNQsBQbqJzDHXi6zNPNbPHUTlNlPRGc03bwDEV5HzYyOzTHk1DYF-6B8KldHoR4Kcygkt9eba0RKtLb_9vSf5dws-0jS_RQ0T3VpeJq1K58w=s728']
+www.halodoc.com##DIV.article-page__social-buttons--mobile[_ngcontent-halodoc-c181386523]
+www.halodoc.com##DIV#smartBanner.absolute[_ngcontent-halodoc-c3641839735]
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 230px; max-width: 648px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 5px; width: 290px; background-repeat: no-repeat; height: 540px; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 618px; max-width: 280px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 5px; width: 290px; background-repeat: no-repeat; height: 540px; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
+anime.oploverz.ac##DIV#sgpb-popup-dialog-main-div.sgpb-content.sgpb-content-19287.sgpb-theme-6-content.sg-popup-content[style='box-sizing: content-box; min-width: 120px; max-height: 574px; max-width: 280px; border-style: solid; border-color: rgb(255, 0, 0); border-radius: 7px; border-width: 0px; padding: 5px; width: 290px; background-repeat: no-repeat; height: 540px; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 0px; overflow: auto;']
